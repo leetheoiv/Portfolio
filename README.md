@@ -1,10 +1,6 @@
-# theo_portfolio
-Highlights my learning progress and projects I have worked on in my free time
-
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Data Science Portfolio</title>
+  <title>Theo's Data Science Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
