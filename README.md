@@ -2,51 +2,23 @@
 <head>
   <title>Theo's Data Science Portfolio</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    .container {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    h1 {
-      text-align: center;
-    }
-    h2 {
-      margin-top: 40px;
-    }
-    p {
-      line-height: 1.5;
-    }
-    ul {
-      list-style: disc;
-      padding-left: 20px;
-    }
-    .project {
+    /* Existing styles */
+
+    .projects {
       display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .project {
+      width: calc(50% - 10px);
       margin-bottom: 20px;
     }
-    .project-image {
-      width: 150px;
-      height: 150px;
-      margin-right: 20px;
-    }
-    .project-title {
-      font-size: 18px;
-      font-weight: bold;
-      margin-bottom: 5px;
-    }
-    .project-description {
-      font-size: 14px;
+
+    @media (max-width: 600px) {
+      .project {
+        width: 100%;
+      }
     }
   </style>
 </head>
