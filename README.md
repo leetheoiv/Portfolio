@@ -1,27 +1,4 @@
 <html>
-<head>
-  <title>Theo's Data Science Portfolio</title>
-  <style>
-    /* Existing styles */
-
-    .projects {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-
-    .project {
-      width: calc(50% - 10px);
-      margin-bottom: 20px;
-    }
-
-    @media (max-width: 600px) {
-      .project {
-        width: 100%;
-      }
-    }
-  </style>
-</head>
 <body>
   <header>
     <h1>Data Science Portfolio</h1>
