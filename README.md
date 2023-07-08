@@ -1,7 +1,7 @@
 <html>
 <body>
   <header>
-    <h1>Data Science Portfolio</h1>
+    <h1>Theo's Data Science Portfolio</h1>
   </header>
   <div class="container">
     <h2>About Me</h2>
