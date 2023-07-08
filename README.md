@@ -31,6 +31,23 @@
       list-style: disc;
       padding-left: 20px;
     }
+    .project {
+      display: flex;
+      margin-bottom: 20px;
+    }
+    .project-image {
+      width: 150px;
+      height: 150px;
+      margin-right: 20px;
+    }
+    .project-title {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+    .project-description {
+      font-size: 14px;
+    }
   </style>
 </head>
 <body>
@@ -43,15 +60,23 @@
       Welcome to my data science portfolio! I'm passionate about leveraging data to extract meaningful insights and solve complex problems. With a strong background in statistics, programming, and machine learning, I enjoy exploring datasets and developing data-driven solutions.
     </p>
     <h2>Projects</h2>
-    <ul>
-      <li>
-        <a href="project1.html">Project 1</a> - Short description of Project 1.
-      </li>
-      <li>
-        <a href="project2.html">Project 2</a> - Short description of Project 2.
-      </li>
+    <div class="projects">
+      <div class="project">
+        <img class="project-image" src="project1_thumbnail.jpg" alt="Project 1 Thumbnail">
+        <div class="project-details">
+          <h3 class="project-title"><a href="project1.html">Project 1</a></h3>
+          <p class="project-description">Short description of Project 1.</p>
+        </div>
+      </div>
+      <div class="project">
+        <img class="project-image" src="project2_thumbnail.jpg" alt="Project 2 Thumbnail">
+        <div class="project-details">
+          <h3 class="project-title"><a href="project2.html">Project 2</a></h3>
+          <p class="project-description">Short description of Project 2.</p>
+        </div>
+      </div>
       <!-- Add more projects here -->
-    </ul>
+    </div>
     <h2>Data Visualizations</h2>
     <!-- Add your data visualizations here -->
     <h2>Blog</h2>
