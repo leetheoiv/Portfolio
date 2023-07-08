@@ -1,48 +1,192 @@
-<html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Unique GitHub Pages Website</title>
+  <style>
+    .MacbookPro161 {
+      width: 1728px;
+      height: 1117px;
+      position: relative;
+      background: white;
+    }
+
+    .Rectangle1 {
+      width: 1728px;
+      height: 141px;
+      left: 0px;
+      top: 0px;
+      position: absolute;
+      background: linear-gradient(180deg, #FAFAFA 0%, rgba(249.69, 249.69, 249.69, 0) 100%);
+      box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+    }
+
+    .Rectangle2 {
+      width: 1728px;
+      height: 976px;
+      left: 0px;
+      top: 141px;
+      position: absolute;
+      background: linear-gradient(180deg, #ECEAEA 0%, rgba(235.88, 233.91, 233.91, 0) 100%);
+      box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+    }
+
+    .TheodoreLeeIv {
+      width: 412px;
+      height: 60px;
+      left: 41px;
+      top: 39px;
+      position: absolute;
+      color: black;
+      font-size: 48px;
+      font-family: Inter;
+      font-weight: 600;
+      word-wrap: break-word;
+    }
+
+    .AboutMe {
+      width: 158px;
+      height: 31px;
+      left: 1213px;
+      top: 54px;
+      position: absolute;
+      color: black;
+      font-size: 32px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .Home {
+      width: 96px;
+      height: 31px;
+      left: 1091px;
+      top: 54px;
+      position: absolute;
+      color: black;
+      font-size: 32px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .Portfolio {
+      width: 158px;
+      height: 31px;
+      left: 1397px;
+      top: 54px;
+      position: absolute;
+      color: black;
+      font-size: 32px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .Resume {
+      width: 158px;
+      height: 31px;
+      left: 1555px;
+      top: 54px;
+      position: absolute;
+      color: black;
+      font-size: 32px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .Rectangle3 {
+      width: 578px;
+      height: 768px;
+      left: 85px;
+      top: 215px;
+      position: absolute;
+      background: white;
+    }
+
+    .InsertImage {
+      width: 462px;
+      height: 462px;
+      left: 145px;
+      top: 367px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 48px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .IAmTheodoreLeeIvButYouCanCallMeTheo {
+      width: 850px;
+      height: 170px;
+      left: 769px;
+      top: 415px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 36px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .AspiringDataScientist {
+      width: 850px;
+      height: 170px;
+      left: 769px;
+      top: 487px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 20px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .Rectangle4 {
+      width: 180px;
+      height: 56px;
+      left: 1104px;
+      top: 615px;
+      position: absolute;
+      background: #FFDF6E;
+      box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.05);
+    }
+
+    .MyProjects {
+      width: 180px;
+      height: 52px;
+      left: 1104px;
+      top: 615px;
+      position: absolute;
+      text-align: center;
+      color: black;
+      font-size: 20px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+  </style>
+</head>
 <body>
-  <header>
-    <h1>Theo's Data Science Portfolio</h1>
-  </header>
-  <div class="container">
-    <h2>About Me</h2>
-    <p>
-      Welcome to my data science portfolio! I'm passionate about leveraging data to extract meaningful insights and solve complex problems. With a strong background in statistics, programming, and machine learning, I enjoy exploring datasets and developing data-driven solutions.
-    </p>
-    <h2>Projects</h2>
-    <div class="projects">
-      <div class="project">
-        <img class="project-image" src="project1_thumbnail.jpg" alt="Project 1 Thumbnail">
-        <div class="project-details">
-          <h3 class="project-title"><a href="project1.html">Project 1</a></h3>
-          <p class="project-description">Short description of Project 1.</p>
-        </div>
-      </div>
-      <div class="project">
-        <img class="project-image" src="project2_thumbnail.jpg" alt="Project 2 Thumbnail">
-        <div class="project-details">
-          <h3 class="project-title"><a href="project2.html">Project 2</a></h3>
-          <p class="project-description">Short description of Project 2.</p>
-        </div>
-      </div>
-      <!-- Add more projects here -->
-    </div>
-    <h2>Data Visualizations</h2>
-    <!-- Add your data visualizations here -->
-    <h2>Blog</h2>
-    <!-- Add your blog posts or articles here -->
-    <h2>Skills</h2>
-    <ul>
-      <li>Data Analysis</li>
-      <li>Machine Learning</li>
-      <li>Data Visualization</li>
-      <!-- Add more skills here -->
-    </ul>
-    <h2>Education and Certifications</h2>
-    <p>Bachelor's Degree in Computer Science, University XYZ</p>
-    <p>Certification in Data Science, ABC Online Course</p>
-    <h2>Contact</h2>
-    <p>Email: your-email@example.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/your-profile">Your LinkedIn Profile</a></p>
+  <div class="MacbookPro161">
+    <div class="Rectangle1"></div>
+    <div class="Rectangle2"></div>
+    <div class="TheodoreLeeIv">Theodore Lee IV</div>
+    <div class="AboutMe">About Me</div>
+    <div class="Home">Home</div>
+    <div class="Portfolio">Portfolio</div>
+    <div class="Resume">Resume</div>
+    <div class="Rectangle3"></div>
+    <div class="InsertImage">Insert Image</div>
+    <div class="IAmTheodoreLeeIvButYouCanCallMeTheo">I am Theodore Lee IV but you can call me “Theo”</div>
+    <div class="AspiringDataScientist">Aspiring Data Scientist</div>
+    <div class="Rectangle4"></div>
+    <div class="MyProjects">My Projects</div>
   </div>
 </body>
 </html>
