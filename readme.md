@@ -1,10 +1,10 @@
 # Aspiring Data Scientist
 
-**Technical Skills**: Python ,C ,Tableau ,Excel
+**Technical Skills**: Python, C, Tableau, Excel, Streamlit, SQL
 
 ### **About Me**
 
-My name is Theodore Lee IV, but you can call me "Theo". I'm currently working towards getting my masters degree in data science. I have an interest in leveraging Data Science to drive innovation in the field of mental health treatments. My goal is to utilize diverse data indicators, including smart device data, to enhance mental health outcomes.
+Hey I'm Theodore Lee IV, but you can call me "Theo". I'm currently working towards getting my masters degree in data science. I have an interest in leveraging Data Science to drive innovation in the field of mental health treatments. My goal is to utilize diverse data sources, such as data streams from smart device data, to enhance mental health outcomes.
 
 ### **Education**
 
@@ -30,20 +30,28 @@ _2017 - 2019_
 
 **Officer @ United States Air Force (Jan 2022 - Present)**
 
-- Utilized weapon system knowledge to determine whether ICBMs are readily availble for launch
-- Ensured appropriate target data was loaded correctly onto over 5 ICBMs
+- Leveraged expertise in missile systems to analyze readiness statuses and availability
+  of intercontinental ballistic missiles for launch.
+  
+- Validated accuracy of target data inputs across multiple ICBM platforms,ensuring integrity
+  of critical launch parameters on over several fielded ICBM systems.
 
-**Research Assistant @ The Center for Children and Families(Sep 2021 - Jan 2022)**
+**Research Assistant @ The Center for Children and Families (Sep 2021 - Jan 2022)**
 
-- Scored teacher responses based on their appropriateness and effectiveness in addressing
-  student behavior violations, such as those commonly seen in students with ADHD.
-- Collaborated with teachers to schedule observation visits and ensure the smooth
-  implementation of the project.
+- Served as an objective rater, scoring teacher responses to student behavior violations using a
+  validated rubric developed by the research lab. Systematically evaluated response appropriateness
+  and effectiveness for incidents common among ADHD students.
+  
+- Coordinated with teachers to plan observational data collection sessions, optimizing
+  scheduling to maximize project data quality while minimizing disruption
 
 **Research Assistant @ The TIES Research Lab at FIU (Dec 2020 - Jan 2022)**
 
-- Created Google sheets to record relevant data from Small Business Technology Transfer
-  (STTR) study such as monitoring participants for risk assessment in speech or self-reports, assessing participants overall adherence rate for data collection, and recording recruitment statistics
+- Created Google Sheets to systematically record and track relevant data for a research
+  study in one centralized place. Specifically, I used the sheets to monitor participants'
+  risk levels, track adherence rates to the study protocol, and log recruitment statistics,
+  so I could monitor overall study progress and participant involvement
+  
 - Participated in weekly team meetings related to app machine learning algorithms, app
   development, participant engagement, device troubleshooting, team collaboration, and
   recruitment strategies
@@ -52,11 +60,14 @@ _2017 - 2019_
 
 #### Current Projects
 
--
+- <img width="1680" alt="Screenshot 2023-08-12 at 6 21 09 PM" src="https://github.com/leetheoiv/Portfolio/assets/123781754/9145340a-2bad-434d-b361-58a926826851">
+   ##### Missileer Dashboard
+
+
 
 #### Past Projects
 
--
+- 
 
 ### Publications
 
