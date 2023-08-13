@@ -60,7 +60,7 @@ _2017 - 2019_
 
 #### Current Projects
 
-- <img width="1680" alt="Screenshot 2023-08-12 at 6 21 09 PM" src="https://github.com/leetheoiv/Portfolio/assets/123781754/9145340a-2bad-434d-b361-58a926826851">
+- ![Alt Text]("https://github.com/leetheoiv/Portfolio/assets/123781754/9145340a-2bad-434d-b361-58a926826851")
    ##### Missileer Dashboard
 
 
