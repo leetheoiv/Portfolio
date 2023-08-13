@@ -60,7 +60,7 @@ _2017 - 2019_
 
 #### Current Projects
 
-- ![Missileer Dashboard](img/Missileer db.png)
+- ![Missileer Dashboard](assests/img/Missileer db.png)
    ##### Missileer Dashboard
 
 
