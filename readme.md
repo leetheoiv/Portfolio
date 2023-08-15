@@ -59,10 +59,6 @@ _2017 - 2019_
 
 - [Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
   
-  <video width="400" height="300" controls>
-  <source src="/Users/theodoreleeiv/Documents/GitHub/Portfolio/assests/videos/ms_prev.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-  </video>
 
 #### 🧐 Data Analytics
 
