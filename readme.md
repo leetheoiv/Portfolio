@@ -53,13 +53,13 @@ _2017 - 2019_
   development, participant engagement, device troubleshooting, team collaboration, and
   recruitment strategies
 
-### Data Projects
+<h1>Data Projects</h1>
 
-#### Data Visualizations
+#### 📊 Data Visualizations
 
-- ![Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
+- [Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
 
-#### Data Analytics
+#### 🧐 Data Analytics
 
 -
 
