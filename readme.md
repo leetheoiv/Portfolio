@@ -53,7 +53,7 @@ _2017 - 2019_
   development, participant engagement, device troubleshooting, team collaboration, and
   recruitment strategies
 
-<h1>Data Projects</h1>
+<h2>Data Projects</h2>
 
 #### 📊 Data Visualizations
 
@@ -63,6 +63,10 @@ _2017 - 2019_
 
 -
 
-### Publications
+<h2>Blog</h2>
+
+- [Discovering User Experiences in VR: Exploring through Data Analysis](https://medium.com/@leetheodore24/discovering-user-experiences-in-vr-exploring-through-data-analysis-1c141b47963e)
+
+<h2>Publications</h2>
 
 **[A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health](https://journals.sagepub.com/eprint/XTDJ2XIA6NG7KZXJBR6S/full)**
