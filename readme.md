@@ -32,7 +32,6 @@ _2017 - 2019_
 
 - Leveraged expertise in missile systems to analyze readiness statuses and availability
   of intercontinental ballistic missiles (ICBM) for launch.
-  
 - Validated accuracy of target data inputs across multiple ICBM platforms,ensuring integrity
   of critical launch parameters on over several fielded ICBM systems.
 
@@ -41,7 +40,6 @@ _2017 - 2019_
 - Served as an objective rater, scoring teacher responses to student behavior violations using a
   validated rubric developed by the research lab. Systematically evaluated response appropriateness
   and effectiveness for incidents common among ADHD students.
-  
 - Coordinated with teachers to plan observational data collection sessions, optimizing
   scheduling to maximize project data quality while minimizing disruption
 
@@ -51,23 +49,19 @@ _2017 - 2019_
   study in one centralized place. Specifically, I used the sheets to monitor participants'
   risk levels, track adherence rates to the study protocol, and log recruitment statistics,
   so I could monitor overall study progress and participant involvement
-  
 - Participated in weekly team meetings related to app machine learning algorithms, app
   development, participant engagement, device troubleshooting, team collaboration, and
   recruitment strategies
 
-### Projects
+### Data Projects
 
-#### Current Projects
+#### Data Visualizations
 
-- ![Missileer Dashboard](assests/img/Missileer db.png)
-   ##### Missileer Dashboard
+- ![Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
 
+#### Data Analytics
 
-
-#### Past Projects
-
-- 
+-
 
 ### Publications
 
