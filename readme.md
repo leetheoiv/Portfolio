@@ -31,7 +31,7 @@ _2017 - 2019_
 **Officer @ United States Air Force (Jan 2022 - Present)**
 
 - Leveraged expertise in missile systems to analyze readiness statuses and availability
-  of intercontinental ballistic missiles for launch (ICBM).
+  of intercontinental ballistic missiles (ICBM) for launch.
   
 - Validated accuracy of target data inputs across multiple ICBM platforms,ensuring integrity
   of critical launch parameters on over several fielded ICBM systems.
