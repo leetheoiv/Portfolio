@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+<h2>Hey, I'm Theo!</h2>
 
 **Technical Skills**: Python, C, Tableau, Excel, Streamlit, SQL
 
@@ -26,7 +26,7 @@ _2017 - 2019_
 
 ---
 
-### **Relevant Work Experience**
+<h2>Relevant Work Experience</h2>
 
 **Officer @ United States Air Force (Jan 2022 - Present)**
 
@@ -58,6 +58,10 @@ _2017 - 2019_
 #### 📊 Data Visualizations
 
 - [Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
+  <video width="400" height="300" controls>
+  <source src="ms_prev.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+  </video>
 
 #### 🧐 Data Analytics
 
@@ -69,4 +73,4 @@ _2017 - 2019_
 
 <h2>Publications</h2>
 
-**[A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health](https://journals.sagepub.com/eprint/XTDJ2XIA6NG7KZXJBR6S/full)**
+- [A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health](https://journals.sagepub.com/eprint/XTDJ2XIA6NG7KZXJBR6S/full)\*\*
