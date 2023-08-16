@@ -1,4 +1,4 @@
-<h2>Hey, I'm Theo!</h2>
+<h2>Hey, I'm Theo!</h2>                                                                                                                                   ![[](www.linkedin.com/in/tlee-iv)](assests/img/linkedin.svg)
 
 **Technical Skills**: Python, C, Tableau, Excel, Streamlit, SQL
 
