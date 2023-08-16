@@ -60,12 +60,17 @@ _2017 - 2019_
 #### 📊 Data Visualizations
 
 - [Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
-  
+  ![Screenshot 2023-08-14 at 7 42 26 PM](https://github.com/leetheoiv/Portfolio/assets/123781754/d74e5aec-4d10-4679-8e3d-0379678c4461)
+
 - [BFFRS Mental Health Dashboard](https://github.com/leetheoiv/sexual-gender-minority)
+  ![image](https://github.com/leetheoiv/Portfolio/assets/123781754/bf711a1f-5175-4a8d-8e00-dc2a7d1ddbdf)
+
   
 #### 🧐 Data Analytics
 
 - [VR Experiences](https://github.com/leetheoiv/vr-experiences)
+  <img width="970" alt="Screenshot 2023-08-15 at 7 45 34 PM" src="https://github.com/leetheoiv/Portfolio/assets/123781754/06434b07-273e-4959-826e-8394c3889cad">
+
 
 <h2>Blog Posts</h2>
 
@@ -75,4 +80,5 @@ _2017 - 2019_
 
 <h2>Publications</h2>
 
-- [A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health](https://journals.sagepub.com/eprint/XTDJ2XIA6NG7KZXJBR6S/full)
+- Timmons, A. C., Duong, J. B., Simo Fiallo, N., **Lee, T.**, Vo, H. P. Q., Ahle, M. W., Comer, J. S., Brewer, L. C., Frazier, S. 
+L., & Chaspari, T. (2022). A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health. Perspectives on Psychological Science, 0(0). https://doi.org/10.1177/17456916221134490
