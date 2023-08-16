@@ -76,4 +76,4 @@ _2017 - 2019_
 
 <h2>Publications</h2>
 
-- [A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health](https://journals.sagepub.com/eprint/XTDJ2XIA6NG7KZXJBR6S/full)\*\*
+- [A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health](https://journals.sagepub.com/eprint/XTDJ2XIA6NG7KZXJBR6S/full)
