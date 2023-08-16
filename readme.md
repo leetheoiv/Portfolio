@@ -9,7 +9,7 @@ Hey I'm Theodore Lee IV, but you can call me "Theo". I'm currently working towar
 ### **Education**
 
 **Florida Atlantic University**
-M.S. - Data Science
+M.S. - Data Science & Analytics
 _2023 - 2026_
 
 ---
