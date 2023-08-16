@@ -62,11 +62,13 @@ _2017 - 2019_
 
 - [Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
   
+- [BFFRS Mental Health Dashboard](https://github.com/leetheoiv/sexual-gender-minority)
+  
 #### 🧐 Data Analytics
 
-- 
+- [VR Experiences](https://github.com/leetheoiv/vr-experiences)
 
-<h2>Blog</h2>
+<h2>Blog Posts</h2>
 
 - [Discovering User Experiences in VR: Exploring through Data Analysis](https://medium.com/@leetheodore24/discovering-user-experiences-in-vr-exploring-through-data-analysis-1c141b47963e)
 
