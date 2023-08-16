@@ -71,6 +71,8 @@ _2017 - 2019_
 <h2>Blog Posts</h2>
 
 - [Discovering User Experiences in VR: Exploring through Data Analysis](https://medium.com/@leetheodore24/discovering-user-experiences-in-vr-exploring-through-data-analysis-1c141b47963e)
+  
+- [Finding and Capitalizing on Data Opportunities in Your Workplace](https://medium.com/@leetheodore24/finding-and-capitalizing-on-data-opportunities-in-your-workplace-3ae6eacecd33)
 
 <h2>Publications</h2>
 
