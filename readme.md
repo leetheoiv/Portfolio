@@ -60,16 +60,12 @@ _2017 - 2019_
 #### 📊 Data Visualizations
 
 - [Missileer Schedule Dashboard](https://github.com/leetheoiv/Schedule-Dahsboard)
-  ![Screenshot 2023-08-14 at 7 42 26 PM](https://github.com/leetheoiv/Portfolio/assets/123781754/d74e5aec-4d10-4679-8e3d-0379678c4461)
 
 - [BFFRS Mental Health Dashboard](https://github.com/leetheoiv/sexual-gender-minority)
-  ![image](https://github.com/leetheoiv/Portfolio/assets/123781754/bf711a1f-5175-4a8d-8e00-dc2a7d1ddbdf)
-
   
 #### 🧐 Data Analytics
 
 - [VR Experiences](https://github.com/leetheoiv/vr-experiences)
-  <img width="970" alt="Screenshot 2023-08-15 at 7 45 34 PM" src="https://github.com/leetheoiv/Portfolio/assets/123781754/06434b07-273e-4959-826e-8394c3889cad">
 
 
 <h2>Blog Posts</h2>
