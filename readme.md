@@ -1,5 +1,4 @@
-<h2>Hey, I'm Theo!</h2>                                                                                                                                   ![www.linkedin.com/in/tlee-iv](assests/img/linkedin.svg)
-
+<h2>Hey, I'm Theo!</h2>                                                                                                                                   
 **Technical Skills**: Python, C, Tableau, Excel, Streamlit, SQL
 
 ### **About Me**
