@@ -3,7 +3,8 @@
 
 ### **About Me**
 
-Hey I'm Theodore Lee IV, but you can call me "Theo". I'm currently working towards getting my masters degree in data science. I have an interest in leveraging Data Science to drive innovation in the field of mental health treatments. My goal is to utilize diverse data sources, such as data streams from smart device data, to enhance mental health outcomes.
+Hey I'm Theodore Lee IV, but most call me "Theo". I'm currently working towards getting my masters degree in data science. I'm interested in leveraging different data sources to enhance mental health treatments. Smart device data can provide vaulable insights that could lead to more personalized care and in-the-moment treatment. My goal is to figure out how to use these data sources to improve mental
+health outcomes and support providers.
 
 ### **Education**
 
